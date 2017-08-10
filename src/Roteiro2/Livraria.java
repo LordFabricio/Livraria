@@ -1,7 +1,7 @@
 package Roteiro2;
 
 public class Livraria {
-// comentando test
+// comentando testando
     public void menu() throws InterruptedException {
         int escolha = 0;
         do {
